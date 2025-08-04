@@ -1,4 +1,4 @@
-const API_KEY = "19ba65a4f91d54c5404051decb9e86b6"; // replace with your OpenWeatherMap API key!
+const API_KEY = "19ba65a4f91d54c5404051decb9e86b6"; 
     const form = document.getElementById('form');
     const weatherDiv = document.getElementById('weather');
     const messageDiv = document.getElementById('message');
